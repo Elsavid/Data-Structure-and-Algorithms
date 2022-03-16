@@ -7,7 +7,7 @@
  2.Linked List
  
  # Resources
-[Top 10 algorithms in Interview Questions]https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
+[Top 10 algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 
 1. Graph
 2. Linked List
