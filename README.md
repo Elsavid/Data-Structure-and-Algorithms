@@ -17,3 +17,7 @@
 6. Number Theory
 7. BIT Manipulation
 8. String / Array
+
+# Leetcode
+## Stack
+[Min Stack](https://leetcode.com/problems/min-stack/)
