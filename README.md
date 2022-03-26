@@ -21,3 +21,7 @@
 # Leetcode
 ## Stack
 [Min Stack](https://leetcode.com/problems/min-stack/)
+## Dynamic Programming
+https://smartkeyerror.com/Coin-Change
+[Change combinations](https://leetcode.com/problems/coin-change-2/)
+
