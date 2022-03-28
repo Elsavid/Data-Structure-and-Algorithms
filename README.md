@@ -19,6 +19,9 @@
 8. String / Array
 
 # Leetcode
-## Stack and Queue
+## Stack
 [Min Stack](https://leetcode.com/problems/min-stack/)
 [QueueViaStack](https://leetcode.com/problems/implement-queue-using-stacks/)
+## Dynamic Programming
+https://smartkeyerror.com/Coin-Change
+1. [Change combinations](https://leetcode.com/problems/coin-change-2/)
