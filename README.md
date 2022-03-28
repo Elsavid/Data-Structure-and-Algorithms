@@ -19,5 +19,6 @@
 8. String / Array
 
 # Leetcode
-## Stack
+## Stack and Queue
 [Min Stack](https://leetcode.com/problems/min-stack/)
+[QueueViaStack](https://leetcode.com/problems/implement-queue-using-stacks/)
