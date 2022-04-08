@@ -1,4 +1,4 @@
-/* first stack s1 stores all elements
+package stack;/* first stack s1 stores all elements
 use second stack as a temporary stack to retrive the element from myQueue
 this can be done by putting all elements from s1 and push into s2, so the order is reversed.
 the top value on s2 is the value we want
@@ -56,7 +56,7 @@ after retriving the value we want, push back all elements from s2 into s1 */
 //         return size==0;
 //     }
 // }
-
+import java.util.*;
 //1.amoritized O(1) for push and pop operations
 //2.newest value on top of s1
 //3.oldest value on top of s2

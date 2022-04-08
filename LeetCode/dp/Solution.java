@@ -1,3 +1,5 @@
+package dp;
+
 //Dynamic Programming
 /*This is a classic knapsack problem. Honestly, I'm not good at knapsack problem, it's really tough for me.
 
@@ -27,18 +29,7 @@ class Solution {
             }
         }
         //optimal code style from leetcode
-        public int change2(int amount, int[] coins) {
-            int[][] dp = new int[coins.length+1][amount+1];
-            dp[0][0] = 1;
 
-            for (int i = 1; i <= coins.length; i++) {
-                dp[i][0] = 1;
-                for (int j = 1; j <= amount; j++) {
-                    dp[i][j] = dp[i-1][j] + (j >= coins[i-1] ? dp[i][j-coins[i-1]] : 0);
-                }
-            }
-            return dp[coins.length][amount];
-        }
         // for(int i=0;i<=coins.length;i++){
         //     for(int j=0;j<=amount;j++){
         //         System.out.print(sum[i][j]+" ");}

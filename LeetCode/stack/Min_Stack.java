@@ -1,4 +1,4 @@
-// class MinStack {
+package stack;// class MinStack {
 //     LinkedList<Integer> s1 = new LinkedList<>();
 //     LinkedList<Integer> s2 = new LinkedList<>();
 //     int minVal = Integer.MAX_VALUE;
