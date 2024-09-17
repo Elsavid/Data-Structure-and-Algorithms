@@ -150,8 +150,6 @@ class RangeModule:
     def removeRange(self, start: int, end: int) -> None:
         """Remove a range [start, end) from the module."""
         self.root = self._remove_range(self.root, start, end)
-        if self.root:
-            self.addRange(self.root.start,self.root.end)
 
     def _query_range(self, node, start, end):
         if not node:
